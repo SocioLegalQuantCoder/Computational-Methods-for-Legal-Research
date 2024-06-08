@@ -3,5 +3,6 @@
 ![微信图片_20240608190313](https://github.com/WentingFANG/Computational-Legal-Research/assets/144525779/e7dcd433-5ce1-4c63-a00b-ccb7eb50bb42)
 
 学习路径：
+
 1.计算机原理速成课 https://www.bilibili.com/video/BV1mU4y147Hc?p=1
 共计约10*40分钟，2024年6月8日第一遍速看
